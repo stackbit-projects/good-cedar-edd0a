@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
+subtitle: Your Trusted IT Partner
 image: images/about.jpg
 image_alt: A man taking a picture
 layout: page
